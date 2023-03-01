@@ -1,0 +1,1 @@
+UPDATE employee_details SET salary = 65000 WHERE emp_name = 'Raj';
